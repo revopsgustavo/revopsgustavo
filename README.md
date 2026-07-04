@@ -1,4 +1,4 @@
-﻿# Gustavo Lazzaroto
+﻿# Gustavo Lazzarotto
 
 ## RevOps & Revenue Analytics
 
