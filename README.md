@@ -24,12 +24,12 @@ Especialista em RevOps Analytics para SaaS B2B, com foco em diagnóstico de rece
 
 ## Featured Projects
 
-- [RevOps Command Center](https://github.com/revopsgustavo/Case-revops): integrated executive view of revenue, forecast, CRM quality and operations.
-- [Forecast Pipeline Risk](https://github.com/revopsgustavo/forecast-accuracy-pipeline-risk-system): commit coverage, best case dependency and deal aging analytics.
-- [CRM Data Quality Governance](https://github.com/revopsgustavo/CRM-Data-Quality-Governance): CRM audit connected to revenue risk and forecast reliability.
-- [Lead Routing Analytics](https://github.com/revopsgustavo/ai-lead-prioritization-routing-engine): rule-based prioritization and routing with SLA and SDR capacity.
+- [RevOps Command Center](https://github.com/revopsgustavo/revops-command-center): integrated executive view of revenue, forecast, CRM quality and operations.
+- [Forecast Risk Analytics](https://github.com/revopsgustavo/forecast-risk-analytics): commit coverage, best case dependency and deal aging analytics.
+- [CRM Data Quality Governance](https://github.com/revopsgustavo/crm-data-quality-governance): CRM audit connected to revenue risk and forecast reliability.
+- [Lead Routing Analytics](https://github.com/revopsgustavo/lead-routing-analytics): rule-based prioritization and routing with SLA and SDR capacity.
 - [Revenue Attribution CAC Payback](https://github.com/revopsgustavo/revenue-attribution-cac-payback): channel efficiency, CAC payback and budget governance.
-- [Customer Health Expansion](https://github.com/revopsgustavo/customer-health-expansion-engine): GRR, NRR, churn risk, expansion and CSM portfolio governance.
+- [Customer Health Expansion](https://github.com/revopsgustavo/customer-health-expansion): GRR, NRR, churn risk, expansion and CSM portfolio governance.
 
 ## Tech Stack
 
